@@ -16,5 +16,6 @@ fn main() {
     }
 }
 ## 🎧 currently vibing to
-🎵 **Kanıtlandık – Uzi Aksan**  
-https://open.spotify.com/intl-tr/track/5VjH7PZSH1CH0YtDSAkDk1?si=afb3bb2707cc4d5a
+
+[![Spotify](https://spotify-embed.vercel.app/api/spotify?uri=spotify:track:5VjH7PZSH1CH0YtDSAkDk1&theme=dark)](https://open.spotify.com/track/5VjH7PZSH1CH0YtDSAkDk1)
+
