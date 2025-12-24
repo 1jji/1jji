@@ -1,16 +1,20 @@
-## Hi there 👋
+# yo, i'm yagiz 👋
 
-<!--
-**1jji/1jji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```rust
+fn main() {
+    let me = Human {
+        name: "yagiz",
+        pronouns: "he/him",
+        location: "turkiye",
+        vibes: vec!["coding","low-level stuff"],
+        status: "building cool shit",
+    };
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    loop {
+        me.write_code();
+        me.learn_something_new();
+    }
+}
+## 🎧 currently vibing to
+🎵 **Kanıtlandık – Uzi Aksan**  
+https://open.spotify.com/intl-tr/track/5VjH7PZSH1CH0YtDSAkDk1?si=afb3bb2707cc4d5a
