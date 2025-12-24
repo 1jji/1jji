@@ -17,5 +17,6 @@ fn main() {
 }
 ## 🎧 currently vibing to
 
-[![Spotify](https://spotify-embed.vercel.app/api/spotify?uri=spotify:track:5VjH7PZSH1CH0YtDSAkDk1&theme=dark)](https://open.spotify.com/track/5VjH7PZSH1CH0YtDSAkDk1)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31xzve7tsbyholqsd77pb277sf3q&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117)](https://open.spotify.com/user/31xzve7tsbyholqsd77pb277sf3q)
+
 
